@@ -1,0 +1,28 @@
+
+
+.StrikeClass {
+    text-decoration: line-through
+}
+
+#emp {
+    font-family: Arial;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #emp td, #emp th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #emp tr:nth-child(even){background-color: #f2f2f2;}
+  
+  
+  
+  #emp th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #acc4bb;
+    color: white;
+  }
